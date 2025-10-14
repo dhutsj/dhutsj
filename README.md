@@ -20,9 +20,9 @@ Languages and Tools:
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="k8s"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="ansible"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="jenkins"></code>
-<code><img height="20" src="https://seeklogo.com/images/A/alibaba-cloud-logo-898D58C1CE-seeklogo.com.png" alt="alicloud"></code>
-<code><img height="20" src="https://branditechture.agency/brand-logos/wp-content/uploads/wpdm-cache/Jfrog-Artifactory-900x0.png" alt="artifactory"></code>
-<code><img height="20" src="https://seeklogo.com/images/P/packer-logo-732D5F5529-seeklogo.com.png" alt="packer"></code>
+<code><img height="20" src="https://www.nexusgroup.com/wp-content/uploads/2020/03/alibaba-cloud-logo.png" alt="alicloud"></code>
+<code><img height="20" src="https://wp.logos-download.com/wp-content/uploads/2024/05/Jfrog_Artifactory_Logo-3000x763.png" alt="artifactory"></code>
+<code><img height="20" src="https://www.pikpng.com/pngl/b/584-5849148_hashicorp-packer-logo-clipart.png" alt="packer"></code>
 <code><img height="20" src="https://sinovi.uk/images/articles/postman-logo-stacked.svg" alt="postman"></code>
 
 
