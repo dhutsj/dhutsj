@@ -18,6 +18,8 @@ Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="github"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="aws"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" alt="k8s"></code>
+<code><img height="20" src="https://landscape.cncf.io/logos/ba71fd50cbc06c7bad3554de23cbca4298593141df3842003a94065c209610f4.svg" alt="argocd"></code>
+<code><img height="20" src="https://miro.medium.com/v2/resize:fit:1284/format:webp/1*uIY7_1KdUyGxPCK8IVuODg.png" alt="grafana"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="ansible"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" alt="jenkins"></code>
 <code><img height="20" src="https://www.nexusgroup.com/wp-content/uploads/2020/03/alibaba-cloud-logo.png" alt="alicloud"></code>
